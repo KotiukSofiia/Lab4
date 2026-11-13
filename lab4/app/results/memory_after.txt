@@ -1,0 +1,2 @@
+NAME                             ID              SIZE      PROCESSOR    CONTEXT    RUNNER      UNTIL              
+qwen3:4b-instruct-2507-q4_K_M    0edcdef34593    5.4 GB    100% GPU     8192       llamacpp    9 minutes from now    

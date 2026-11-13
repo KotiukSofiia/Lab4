@@ -1,0 +1,32 @@
+# system_profiler SPHardwareDataType (без серійного номера)
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro18,3
+      Model Number: MKGQ3LL/A
+      Chip: Apple M1 Pro
+      Total Number of Cores: 10 (8 Performance and 2 Efficiency)
+      Memory: 16 GB
+      System Firmware Version: 18000.161.10
+      OS Loader Version: 18000.161.10
+      Activation Lock Status: Enabled
+
+# GPU
+      Chipset Model: Apple M1 Pro
+      Type: GPU
+      Total Number of Cores: 16
+      Metal Support: Metal 4
+          Display Type: Built-in Liquid Retina XDR Display
+          Connection Type: Internal
+# sysctl
+Apple M1 Pro
+17179869184
+8
+2
+# GPU wired memory limit (iogpu.wired_limit_mb, 0 = дефолт ≈ 2/3 RAM)
+0
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
